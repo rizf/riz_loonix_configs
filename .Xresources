@@ -1,0 +1,45 @@
+! URxvt
+! URxvt.background:     #161616
+! URxvt.foreground:     #f7f7f7
+URxvt.geometry:         68x23
+URxvt.font:             xft:Fantasque Sans Mono:size=13
+URxvt.boldFont:         xft:Fantasque Sans Mono:size=13
+URxvt.italicFont:       xft:Fantasque Sans Mono:size=13
+URxvt.boldItalicFont:   xft:Fantasque Sans Mono:size=13
+URxvt.transparent:      false
+URxvt.shading:          0
+URxvt.scrollBar:        false
+URxvt.perl-ext-common:  ...,tabbed,...
+URxvt.tabbed.tabbar-fg: 4
+URxvt.tabbed.tabbar-bg: 8
+URxvt.tabbed.tab-fg:    2
+URxvt.tabbed.tab-bg:    0
+
+! Terminal Colours
+*.foreground:   #c5c8c6
+*.background:   #1d1f21
+! Black
+*.color0:       #282a2e
+*.color8:       #373b41
+! Red
+*.color1:       #a54242
+*.color9:       #cc6666
+! Green
+*.color2:       #8c9440
+*.color10:      #b5bd68
+! Yellow
+*.color3:       #de935f
+*.color11:      #f0c674
+! Blue
+*.color4:       #5f819d
+*.color12:      #81a2be
+! Magenta
+*.color5:       #85678f
+*.color13:      #b294bb
+! Cyan
+*.color6:       #5e8d87
+*.color14:      #8abeb7
+! White
+*.color7:       #707880
+*.color15:      #c5c8c6
+
